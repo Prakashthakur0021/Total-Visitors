@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background: #181a1b;
+  /* background: #192a56; */
+  color: #e8e6e3;
+  height: 100vh;
+  transform: translateY(-50px);
+  text-align: center;
+}
+
+#visits {
+  font-size: 4.5rem;
+}
